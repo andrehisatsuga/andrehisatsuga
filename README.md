@@ -4,8 +4,10 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 -->
-- 📫 How to reach me: andre dot hisatsuga at gmail dot com
-Discord: @garytheblue#2615
+- 📫 How to reach me: 
+  - andre dot hisatsuga at gmail dot com
+
+  - Discord: @garytheblue#2615
 
 <!---
 andrehisatsuga/andrehisatsuga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

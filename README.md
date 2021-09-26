@@ -1,3 +1,6 @@
+
+Todos os direitos reservados.
+
 - 👋 Hi, I’m @andrehisatsuga
 
 <!--- 👀 I’m interested in ...
